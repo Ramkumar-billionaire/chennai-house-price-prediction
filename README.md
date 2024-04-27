@@ -1,6 +1,6 @@
 # PROBLEM STATEMENT : 
 
-         In the real estate industry, determining the appropriate price for a property is crucial for property owners, 
+In the real estate industry, determining the appropriate price for a property is crucial for property owners, 
 and property management companies. Accurate price predictions can help landlords set competitive prices
 , and property management companies optimize their portfolio management.
 The goal of this project is to develop a data-driven model that predicts the price of house based on relevant features.
